@@ -10,3 +10,7 @@ pipeline {
     }
   }
 }
+hello world
+P{
+  Practice example 1
+}
